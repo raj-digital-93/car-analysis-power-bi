@@ -35,5 +35,6 @@ The dataset includes:
 - Vehicle prices vary significantly by year
 
 ## Screenshot
-![Dashboard Preview](Dashboard-Preview.pdf)
+![Dashboard Preview Attached]
+
 
